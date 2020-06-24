@@ -2,9 +2,9 @@
 
 Dracula inspired theming and colours.
 
-[![Dracula Wallpaper](/images/background.png])]
+![Dracula Wallpaper](/images/background.png])
 
-[![Workflow](/images/workflow.png)]
+![Workflow](/images/workflow.png)
 
 
 * I3gaps
