@@ -8,7 +8,7 @@ Dracula inspired theming and colours.
 
 
 * I3gaps
-* I3
+* I3status
 * Rofi
 * Feh
 * Arch Linux
